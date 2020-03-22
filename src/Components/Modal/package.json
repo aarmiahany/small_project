@@ -1,0 +1,5 @@
+{
+  "name": "Modal",
+  "private": true,
+  "main": "./ModalComp.js"
+}

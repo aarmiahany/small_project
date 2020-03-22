@@ -1,0 +1,6 @@
+{
+  "name": "pagination",
+  "private": true,
+  "version": "0.0.0",
+  "main": "./Pagination.js"
+}
